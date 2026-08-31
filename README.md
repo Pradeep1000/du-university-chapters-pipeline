@@ -28,23 +28,23 @@ du-chapters-etl/
 
 ## Architecture / Flow
 
-1. **Extract (`extract.py`)**: Fetches raw JSON payload from the Ducks Unlimited public ArcGIS API endpoint.
+1. Extract (`extract.py`): Fetches raw JSON payload from the Ducks Unlimited public ArcGIS API endpoint.
 
 
-2. **Transform (`transform.py`)**: Parses fields, cleans attribute mappings, validates data types, and extracts geographical coordinates (longitude and latitude).
+2. Transform (`transform.py`): Parses fields, cleans attribute mappings, validates data types, and extracts geographical coordinates (longitude and latitude).
 
 
-3. **Load (`load.py`)**: Connects to Google Cloud and securely loads the clean records into BigQuery.
+3. Load (`load.py`): Connects to Google Cloud and securely loads the clean records into BigQuery.
 
 
 ## Implementation Details & Workflow
 
 The pipeline is structured modularly to ensure clean separation of concerns, robust error handling, and ease of testing:
 
-* **Extraction (`extract.py`)**: Connects to the public Ducks Unlimited ArcGIS API endpoint to pull raw university chapter data.
-* **Transformation (`transform.py`)**: Cleans, parses, and validates attributes (such as chapter IDs, names, cities, states, and coordinates) to enforce data quality before loading.
-* **Loading (`load.py`)**: Establishes a secure connection to Google Cloud and writes the validated records downstream into Google BigQuery.
-* **Orchestration (`pipeline.py`)**: Acts as the main entry point, tying extraction, transformation, and loading into a single automated end-to-end execution flow.
-* **Testing (`tests/`)**: Implements unit and integration tests using `pytest` to verify transformation rules and validate pipeline behavior locally.
-* **CI/CD Pipeline (`ci-cd.yml`)**: Automates testing and code quality checks using GitHub Actions upon pushing changes to the repository.
+1.) Extraction (`extract.py`): Connects to the public Ducks Unlimited ArcGIS API endpoint to pull raw university chapter data.
+2.) Transformation (`transform.py`): Cleans, parses, and validates attributes (such as chapter IDs, names, cities, states, and coordinates) to enforce data quality before loading.
+3.) Loading (`load.py`): Establishes a secure connection to Google Cloud and writes the validated records downstream into Google BigQuery.
+4.) Orchestration (`pipeline.py`): Acts as the main entry point, tying extraction, transformation, and loading into a single automated end-to-end execution flow.
+5.) Testing (`tests/`): Implements unit and integration tests using `pytest` to verify transformation rules and validate pipeline behavior locally.
+6.) CI/CD Pipeline (`ci-cd.yml`): Automates testing and code quality checks using GitHub Actions upon pushing changes to the repository.
 
