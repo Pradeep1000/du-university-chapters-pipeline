@@ -36,3 +36,15 @@ du-chapters-etl/
 
 3. **Load (`load.py`)**: Connects to Google Cloud and securely loads the clean records into BigQuery.
 
+
+## Implementation Details & Workflow
+
+The pipeline is structured modularly to ensure clean separation of concerns, robust error handling, and ease of testing:
+
+* **Extraction (`extract.py`)**: Connects to the public Ducks Unlimited ArcGIS API endpoint to pull raw university chapter data.
+* **Transformation (`transform.py`)**: Cleans, parses, and validates attributes (such as chapter IDs, names, cities, states, and coordinates) to enforce data quality before loading.
+* **Loading (`load.py`)**: Establishes a secure connection to Google Cloud and writes the validated records downstream into Google BigQuery.
+* **Orchestration (`pipeline.py`)**: Acts as the main entry point, tying extraction, transformation, and loading into a single automated end-to-end execution flow.
+* **Testing (`tests/`)**: Implements unit and integration tests using `pytest` to verify transformation rules and validate pipeline behavior locally.
+* **CI/CD Pipeline (`ci-cd.yml`)**: Automates testing and code quality checks using GitHub Actions upon pushing changes to the repository.
+
