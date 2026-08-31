@@ -1,0 +1,92 @@
+﻿X,Y,OBJECTID,University_Chapter,City,State,ChapterID,MEVR_RD
+-84.3042726369999,30.438110943,2,Florida State University,Tallahassee,FL,FL0110,Jarrett Lafferty
+-83.510064467,31.4634182680001,3,Abraham Baldwin Agricultural College,Tifton,GA,GA0020,Brice Crawford
+-83.383246443,33.955464353,4,University of Georgia,Athens,GA,GA0133,Scott James
+-81.779237339,32.445146145,5,Georgia Southern University,Statesboro,GA,GA0144,Brice Crawford
+-84.403173241,33.7595092110001,6,Georgia Tech University,Atlanta,GA,GA0147,Scott James
+-87.5346091929999,33.2065366960001,7,University of Alabama,Tuscaloosa,AL,AL0107,Neely Raper
+-85.4889820124055,32.6021289832472,9,University of Auburn,Auburn,AL,AL0114,Neely Raper
+-93.631582491,42.0273363310001,11,Iowa State University,Ames,IA,IA0104,Josh Finley
+-89.220273632,37.7264177060001,12,Southern Illinois University,Carbondale,IL,IL0211,Benny Magalski
+-75.7580372849999,39.6791093470001,13,University of Delaware,Newark,DE,DE0016,Taylor Deemer
+-86.9124095189999,40.441936883,15,Purdue University,West Lafayette,IN,IN0120,Josh Hall
+-96.586818358,39.190145864,17,Kansas State University,Manhattan,KS,KS0111,John Ritchey
+-120.663191003,35.2743091450001,19,California Polytechnic State University,San Luis Obispo,CA,CA0355,Derek Swindall
+-92.6404638509999,32.5296733270001,21,Louisiana Tech University,Ruston ,LA,LA0147,Tommy Jackson
+-92.453318655,35.0873368760001,23,University of Central Arkansas,Conway,AR,AR0124,Bob Butler
+-94.1609101889999,36.076382166,24,U of A Razorback,Fayetteville,AR,AR0110,Tye Anderson
+-91.1841724509999,30.4122830330001,25,Louisiana State University,Baton Rouge,LA,LA0085,Zac Brown
+-121.835463245,39.7399817620001,26,Chico State University,Chico,CA,CA0300,Brian Henderson
+-90.465618317,30.504446397,28,Southeast Louisiana University,Hammond,LA,LA0157,Zac Brown
+-105.078300374,40.559236561,29,Colorado State University,Fort Collins ,CO,CO0108,Erik Wettersten
+-93.2085369069999,30.214655572,30,McNeese State University,Lake Charles,LA,LA0159,Derrick Davis
+-84.5585235189999,42.7213652670001,31,Michigan State University,Lansing,MI,MI0010,Craig Curtis
+-93.136818773,35.2784269650001,33,Arkansas Tech University,Russellville,AR,AR0130,Tye Anderson
+-92.029364609,30.21390046,35,University of Louisiana- Lafayette,Lafayette,LA,LA0149,Derrick Davis
+-93.9938003,44.164500602,36,Minnesota State University,Mankato,MN,MN0255,Ben Vaughn
+-94.877737305,47.476526828,37,Bemidji State University,Bemidji,MN,MN0221,Dalton Rosin
+-91.647155072,44.0481550330001,38,Winona State University ,Winona ,MN,MN0325,
+-89.5262461949999,34.359836403,40,University of Mississippi,Oxford,MS,MS0114,Hunter Pridgen
+-88.81999209,33.462473554,41,Mississippi State University,Starkville,MS,MS0123,Hunter Pridgen
+-88.31565545,36.6094917300001,43,Murray State University,Murray,KY,KY0082,Bob Bezkor
+-111.047273419,45.6778913840001,44,Montana State University,Bozeman,MT,MT0071,Barry Allen
+-92.117081936,46.7803725420001,45,University of Minnesota- Duluth,Duluth,MN,MN0293,Rodney Schlafer
+-78.6445921609999,35.8188363850001,47,North Carolina State University,Raleigh,NC,NC0162,Larry Wilkins
+-93.286209763,37.195100106,48,Missouri State University,Springfield,MO,MO0171,Todd Carlton
+-93.268200333,44.964463718,49,University of Minnesota,Minneapolis,MN,MN0323,John Marks
+-79.0394642809999,35.925918263,50,University of North Carolina at Chapel Hill,Chapel Hill,NC,NC0166,Larry Wilkins
+-96.80865492,46.8714175060001,51,North Dakota State University,Fargo,ND,ND0077,Terry Lassiter
+-77.912118956,34.223236619,52,University of North Carolina at Wilmington ,Wilmington,NC,NC0171,Dave Neal
+-81.668655401,36.2113640580001,53,Appalachian State University,Boone,NC,NC0125,Jon Sturgill
+-92.333781727,38.9483550100001,54,University of Missouri,Columbia ,MO,MO0160,Trevor Hickman
+-119.821808635,39.527109286,55,University of Nevada- Reno,Reno,NV,NV0046,Billie Ray Fann
+-76.144427084,43.0469004990001,58,State University of New York College of Environmental Science and Forestry,Syracuse ,NY,NY0225,Trevor Bentley
+-89.308654705,31.3159726660001,59,University of Southern Mississippi,Hattiesburg,MS,MS0131,Tommy Ware
+-97.068537337,36.1215367250001,60,Oklahoma State University,Stillwater,OK,OK0119,Nathan Johnson
+-84.3642383279999,46.4933494690001,61,Lake Superior State University,Sault Ste. Marie ,MI,MI0229,Kevin Stoltz
+-79.9616644497508,32.7962903361946,63,Citadel College,Charleston,SC,SC0085,James Meadows
+-82.648946259,34.514509031,65,Anderson University,Anderson ,SC,SC0101,Tanner Quattlebaum
+-77.3723646289999,35.6016095950001,66,East Carolina University,Greenville,NC,NC0168,Dave Neal
+-82.814773352,34.684927723,67,Clemson University,Clemson,SC,SC0082,Tanner Quattlebaum
+-83.942164491,35.972881859,70,University of Tennessee-Knoxville,Knoxville,TN,TN0087,Charlie Lowery
+-81.010755333,34.0171092460001,73,University of South Carolina,Columbia ,SC,SC0079,James Meadows
+-96.346168147556,30.6057956700526,76,Texas A&M University,College Station,TX,TX0217,
+-88.8656152565499,36.3409679399144,78,University of Tennessee at Martin,Martin,TN,TN0117,Jimbo Robinson
+-96.7106235519374,40.8171518171359,79,University of Nebraska- Lincoln,Lincoln,NE,NE0101,Steve Wilson
+-101.87288813892,33.5910604616136,80,Texas Tech University,Lubbock,TX,TX0164,Randall Foster
+-78.872755545,38.443282004,81,James Madison University,Harrisonburg,VA,VA0100,Shawn Kooyman
+-89.394755129,43.074609771,82,University of Wisconsin-Madison,Madison,WI,WI0303,William Gross
+-87.955909371,43.0521641010001,83,Milwaukee School of Engineering ,Milwaukee,WI,WI0328,Tom Munich
+-85.5061504148473,36.1781188837746,85,Tennessee Tech University,Cookeville,TN,TN0111,Charlie Lowery
+-94.64438432302,31.6257210301182,87,Stephen F. Austin State University,Nacogdoches,TX,TX0255,Jason McKey
+-80.4176912189999,37.229873329,88,Virginia Tech University,Blacksburg,VA,VA0089,Shawn Kooyman
+-96.7801304981806,44.3209889474038,89,South Dakota State University ,Brookings ,SD,SD0118,Don Thorpe
+-89.560318511,44.523036516,91,University of Wisconsin-Stevens Point,Stevens Point,WI,WI0340,Michael Brumley
+-83.9840708249999,34.527711047,494,University of North Georgia,Dahlonega,GA,GA0173,Scott James
+-94.320215526,45.5588056610001,895,College of Saint Benedict & Saint John's University,St. Joseph,MN,MN0295,Kyle Momsen
+-85.918931436,35.204197456,897,Sewnee: The University of the South,Sewanee,TN,TN0096,Charlie Lowery
+-93.971489955,44.3232827300001,1295,Gustavus Adolphus College,St. Peter,MN,MN0335,Ben Vaughn
+-88.549947878,47.1102235280001,1297,Michigan Tech University,Houghton,MI,MI0248,
+-74.504260648,42.6718201580001,1696,State University of New York at Cobleskill,Cobleskill,NY,NY0222,
+-97.939955003,29.8890250910001,1698,Texas State University,Marcos,TX,TX0246,
+-78.459182203,37.2435208540001,1699,Hampden-Sydney College,Farmville,VA,VA0090,Shawn Kooyman
+-91.9278007249999,44.8736824480001,1700,University of Wisconsin-Stout,Stout,WI,WI0342,Rodney Schlafer
+-85.2974609417724,35.0452641311271,1708,University of Tennessee-Chattanooga,Chattanooga,TN,TN132,Charlie Lowery
+-88.7435781349181,42.8371957801052,1711,University of Wisconsin-Whitewater,Whitewater,WI,WI0331,Tom Munich
+-83.2285058624267,33.0809979780375,1712,Georgia College & State University,Milledgeville,GA,GA0151,Brice Crawford
+-95.9083869986723,33.244280478526,1714,Texas A&M Commerce,Commerce,TX,TX0091,Russ Hawley
+-78.5157391482547,38.0338861068355,1715,University of Virginia,Charlottesville,VA,VA0088,Shawn Kooyman
+-78.7394536441807,35.4083585778354,1716,Campbell University,Buies Creek,NC,NC0144,Dave Neal
+-110.953881322632,32.2318967534171,1717,University of Arizona,Tuscon,AZ,AZ0070,Andrew Limmer
+-99.0963499676893,40.7017032922548,1722,University of Nebraska- Kearney,Kearney,NE,NE0116,Pat Baughman
+-83.0110755767817,39.9996467204618,1723,Ohio State University,Columbus,OH,OH0131,Aaron Dynes
+-82.3552443873829,29.642362842802,1727,University of Florida/Gainesville,Gainesville,FL,FL-0126,Jarrett Lafferty
+-90.6757361653537,35.8416758450826,1729,Arkansas State University,Jonesboro,AR,AR-0113,Tye Anderson
+-117.014284571533,46.7281818905423,1730,Vandal Chapter,Moscow,ID,ID-0089,Mond Warren
+-92.435144897469,30.4746651855709,1731,LSU Eunice,Eunice,LA,LA-0161,Derrick Davis
+-88.5505984242892,47.1191833164408,1732,Michigan Tech University,Houghton,MI,MI-0248,Chris Anderson
+-85.4824800317382,43.6865499351726,1733,Ferris State University,Big Rapids,MI,MI-0260,Craig Curtis
+-80.8470467089843,35.499342805885,1734,Davidson College,Davidson,NC,NC-0231,Jon Sturgill
+-75.1595666772461,44.5935451609797,1735,St. Lawrence University,Canton,NY,NY-0217,UNKNOWN
+-79.9376474314941,32.7848345263862,1736,College of Charleston,Charleston,SC,SC-0007,James Meadows
+-79.4393553219728,37.7900810211503,1737,VMI,Lexington,VA,VA-0102,Shawn Kooyman

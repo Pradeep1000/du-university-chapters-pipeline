@@ -1,0 +1,1010 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="DU_University_Chapters" id="DU_University_Chapters">
+	<SimpleField name="OBJECTID" type="int"></SimpleField>
+	<SimpleField name="University_Chapter" type="string"></SimpleField>
+	<SimpleField name="City" type="string"></SimpleField>
+	<SimpleField name="State" type="string"></SimpleField>
+	<SimpleField name="ChapterID" type="string"></SimpleField>
+	<SimpleField name="MEVR_RD" type="string"></SimpleField>
+</Schema>
+<Folder><name>DU_University_Chapters</name>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#DU_University_Chapters">
+		<SimpleData name="OBJECTID">2</SimpleData>
+		<SimpleData name="University_Chapter">Florida State University</SimpleData>
+		<SimpleData name="City">Tallahassee</SimpleData>
+		<SimpleData name="State">FL</SimpleData>
+		<SimpleData name="ChapterID">FL0110</SimpleData>
+		<SimpleData name="MEVR_RD">Jarrett Lafferty</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-84.3042726369999,30.438110943</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#DU_University_Chapters">
+		<SimpleData name="OBJECTID">3</SimpleData>
+		<SimpleData name="University_Chapter">Abraham Baldwin Agricultural College</SimpleData>
+		<SimpleData name="City">Tifton</SimpleData>
+		<SimpleData name="State">GA</SimpleData>
+		<SimpleData name="ChapterID">GA0020</SimpleData>
+		<SimpleData name="MEVR_RD">Brice Crawford</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-83.510064467,31.4634182680001</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#DU_University_Chapters">
+		<SimpleData name="OBJECTID">4</SimpleData>
+		<SimpleData name="University_Chapter">University of Georgia</SimpleData>
+		<SimpleData name="City">Athens</SimpleData>
+		<SimpleData name="State">GA</SimpleData>
+		<SimpleData name="ChapterID">GA0133</SimpleData>
+		<SimpleData name="MEVR_RD">Scott James</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-83.383246443,33.955464353</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#DU_University_Chapters">
+		<SimpleData name="OBJECTID">5</SimpleData>
+		<SimpleData name="University_Chapter">Georgia Southern University</SimpleData>
+		<SimpleData name="City">Statesboro</SimpleData>
+		<SimpleData name="State">GA</SimpleData>
+		<SimpleData name="ChapterID">GA0144</SimpleData>
+		<SimpleData name="MEVR_RD">Brice Crawford</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-81.779237339,32.445146145</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#DU_University_Chapters">
+		<SimpleData name="OBJECTID">6</SimpleData>
+		<SimpleData name="University_Chapter">Georgia Tech University</SimpleData>
+		<SimpleData name="City">Atlanta</SimpleData>
+		<SimpleData name="State">GA</SimpleData>
+		<SimpleData name="ChapterID">GA0147</SimpleData>
+		<SimpleData name="MEVR_RD">Scott James</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-84.403173241,33.7595092110001</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#DU_University_Chapters">
+		<SimpleData name="OBJECTID">7</SimpleData>
+		<SimpleData name="University_Chapter">University of Alabama</SimpleData>
+		<SimpleData name="City">Tuscaloosa</SimpleData>
+		<SimpleData name="State">AL</SimpleData>
+		<SimpleData name="ChapterID">AL0107</SimpleData>
+		<SimpleData name="MEVR_RD">Neely Raper</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-87.5346091929999,33.2065366960001</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#DU_University_Chapters">
+		<SimpleData name="OBJECTID">9</SimpleData>
+		<SimpleData name="University_Chapter">University of Auburn</SimpleData>
+		<SimpleData name="City">Auburn</SimpleData>
+		<SimpleData name="State">AL</SimpleData>
+		<SimpleData name="ChapterID">AL0114</SimpleData>
+		<SimpleData name="MEVR_RD">Neely Raper</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.4889820124055,32.6021289832472</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#DU_University_Chapters">
+		<SimpleData name="OBJECTID">11</SimpleData>
+		<SimpleData name="University_Chapter">Iowa State University</SimpleData>
+		<SimpleData name="City">Ames</SimpleData>
+		<SimpleData name="State">IA</SimpleData>
+		<SimpleData name="ChapterID">IA0104</SimpleData>
+		<SimpleData name="MEVR_RD">Josh Finley</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-93.631582491,42.0273363310001</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#DU_University_Chapters">
+		<SimpleData name="OBJECTID">12</SimpleData>
+		<SimpleData name="University_Chapter">Southern Illinois University</SimpleData>
+		<SimpleData name="City">Carbondale</SimpleData>
+		<SimpleData name="State">IL</SimpleData>
+		<SimpleData name="ChapterID">IL0211</SimpleData>
+		<SimpleData name="MEVR_RD">Benny Magalski</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-89.220273632,37.7264177060001</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#DU_University_Chapters">
+		<SimpleData name="OBJECTID">13</SimpleData>
+		<SimpleData name="University_Chapter">University of Delaware</SimpleData>
+		<SimpleData name="City">Newark</SimpleData>
+		<SimpleData name="State">DE</SimpleData>
+		<SimpleData name="ChapterID">DE0016</SimpleData>
+		<SimpleData name="MEVR_RD">Taylor Deemer</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-75.7580372849999,39.6791093470001</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#DU_University_Chapters">
+		<SimpleData name="OBJECTID">15</SimpleData>
+		<SimpleData name="University_Chapter">Purdue University</SimpleData>
+		<SimpleData name="City">West Lafayette</SimpleData>
+		<SimpleData name="State">IN</SimpleData>
+		<SimpleData name="ChapterID">IN0120</SimpleData>
+		<SimpleData name="MEVR_RD">Josh Hall</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-86.9124095189999,40.441936883</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#DU_University_Chapters">
+		<SimpleData name="OBJECTID">17</SimpleData>
+		<SimpleData name="University_Chapter">Kansas State University</SimpleData>
+		<SimpleData name="City">Manhattan</SimpleData>
+		<SimpleData name="State">KS</SimpleData>
+		<SimpleData name="ChapterID">KS0111</SimpleData>
+		<SimpleData name="MEVR_RD">John Ritchey</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-96.586818358,39.190145864</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#DU_University_Chapters">
+		<SimpleData name="OBJECTID">19</SimpleData>
+		<SimpleData name="University_Chapter">California Polytechnic State University</SimpleData>
+		<SimpleData name="City">San Luis Obispo</SimpleData>
+		<SimpleData name="State">CA</SimpleData>
+		<SimpleData name="ChapterID">CA0355</SimpleData>
+		<SimpleData name="MEVR_RD">Derek Swindall</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-120.663191003,35.2743091450001</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#DU_University_Chapters">
+		<SimpleData name="OBJECTID">21</SimpleData>
+		<SimpleData name="University_Chapter">Louisiana Tech University</SimpleData>
+		<SimpleData name="City">Ruston </SimpleData>
+		<SimpleData name="State">LA</SimpleData>
+		<SimpleData name="ChapterID">LA0147</SimpleData>
+		<SimpleData name="MEVR_RD">Tommy Jackson</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-92.6404638509999,32.5296733270001</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#DU_University_Chapters">
+		<SimpleData name="OBJECTID">23</SimpleData>
+		<SimpleData name="University_Chapter">University of Central Arkansas</SimpleData>
+		<SimpleData name="City">Conway</SimpleData>
+		<SimpleData name="State">AR</SimpleData>
+		<SimpleData name="ChapterID">AR0124</SimpleData>
+		<SimpleData name="MEVR_RD">Bob Butler</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-92.453318655,35.0873368760001</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#DU_University_Chapters">
+		<SimpleData name="OBJECTID">24</SimpleData>
+		<SimpleData name="University_Chapter">U of A Razorback</SimpleData>
+		<SimpleData name="City">Fayetteville</SimpleData>
+		<SimpleData name="State">AR</SimpleData>
+		<SimpleData name="ChapterID">AR0110</SimpleData>
+		<SimpleData name="MEVR_RD">Tye Anderson</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-94.1609101889999,36.076382166</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#DU_University_Chapters">
+		<SimpleData name="OBJECTID">25</SimpleData>
+		<SimpleData name="University_Chapter">Louisiana State University</SimpleData>
+		<SimpleData name="City">Baton Rouge</SimpleData>
+		<SimpleData name="State">LA</SimpleData>
+		<SimpleData name="ChapterID">LA0085</SimpleData>
+		<SimpleData name="MEVR_RD">Zac Brown</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-91.1841724509999,30.4122830330001</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#DU_University_Chapters">
+		<SimpleData name="OBJECTID">26</SimpleData>
+		<SimpleData name="University_Chapter">Chico State University</SimpleData>
+		<SimpleData name="City">Chico</SimpleData>
+		<SimpleData name="State">CA</SimpleData>
+		<SimpleData name="ChapterID">CA0300</SimpleData>
+		<SimpleData name="MEVR_RD">Brian Henderson</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-121.835463245,39.7399817620001</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#DU_University_Chapters">
+		<SimpleData name="OBJECTID">28</SimpleData>
+		<SimpleData name="University_Chapter">Southeast Louisiana University</SimpleData>
+		<SimpleData name="City">Hammond</SimpleData>
+		<SimpleData name="State">LA</SimpleData>
+		<SimpleData name="ChapterID">LA0157</SimpleData>
+		<SimpleData name="MEVR_RD">Zac Brown</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-90.465618317,30.504446397</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#DU_University_Chapters">
+		<SimpleData name="OBJECTID">29</SimpleData>
+		<SimpleData name="University_Chapter">Colorado State University</SimpleData>
+		<SimpleData name="City">Fort Collins </SimpleData>
+		<SimpleData name="State">CO</SimpleData>
+		<SimpleData name="ChapterID">CO0108</SimpleData>
+		<SimpleData name="MEVR_RD">Erik Wettersten</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-105.078300374,40.559236561</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#DU_University_Chapters">
+		<SimpleData name="OBJECTID">30</SimpleData>
+		<SimpleData name="University_Chapter">McNeese State University</SimpleData>
+		<SimpleData name="City">Lake Charles</SimpleData>
+		<SimpleData name="State">LA</SimpleData>
+		<SimpleData name="ChapterID">LA0159</SimpleData>
+		<SimpleData name="MEVR_RD">Derrick Davis</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-93.2085369069999,30.214655572</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#DU_University_Chapters">
+		<SimpleData name="OBJECTID">31</SimpleData>
+		<SimpleData name="University_Chapter">Michigan State University</SimpleData>
+		<SimpleData name="City">Lansing</SimpleData>
+		<SimpleData name="State">MI</SimpleData>
+		<SimpleData name="ChapterID">MI0010</SimpleData>
+		<SimpleData name="MEVR_RD">Craig Curtis</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-84.5585235189999,42.7213652670001</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#DU_University_Chapters">
+		<SimpleData name="OBJECTID">33</SimpleData>
+		<SimpleData name="University_Chapter">Arkansas Tech University</SimpleData>
+		<SimpleData name="City">Russellville</SimpleData>
+		<SimpleData name="State">AR</SimpleData>
+		<SimpleData name="ChapterID">AR0130</SimpleData>
+		<SimpleData name="MEVR_RD">Tye Anderson</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-93.136818773,35.2784269650001</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#DU_University_Chapters">
+		<SimpleData name="OBJECTID">35</SimpleData>
+		<SimpleData name="University_Chapter">University of Louisiana- Lafayette</SimpleData>
+		<SimpleData name="City">Lafayette</SimpleData>
+		<SimpleData name="State">LA</SimpleData>
+		<SimpleData name="ChapterID">LA0149</SimpleData>
+		<SimpleData name="MEVR_RD">Derrick Davis</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-92.029364609,30.21390046</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#DU_University_Chapters">
+		<SimpleData name="OBJECTID">36</SimpleData>
+		<SimpleData name="University_Chapter">Minnesota State University</SimpleData>
+		<SimpleData name="City">Mankato</SimpleData>
+		<SimpleData name="State">MN</SimpleData>
+		<SimpleData name="ChapterID">MN0255</SimpleData>
+		<SimpleData name="MEVR_RD">Ben Vaughn</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-93.9938003,44.164500602</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#DU_University_Chapters">
+		<SimpleData name="OBJECTID">37</SimpleData>
+		<SimpleData name="University_Chapter">Bemidji State University</SimpleData>
+		<SimpleData name="City">Bemidji</SimpleData>
+		<SimpleData name="State">MN</SimpleData>
+		<SimpleData name="ChapterID">MN0221</SimpleData>
+		<SimpleData name="MEVR_RD">Dalton Rosin</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-94.877737305,47.476526828</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#DU_University_Chapters">
+		<SimpleData name="OBJECTID">38</SimpleData>
+		<SimpleData name="University_Chapter">Winona State University </SimpleData>
+		<SimpleData name="City">Winona </SimpleData>
+		<SimpleData name="State">MN</SimpleData>
+		<SimpleData name="ChapterID">MN0325</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-91.647155072,44.0481550330001</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#DU_University_Chapters">
+		<SimpleData name="OBJECTID">40</SimpleData>
+		<SimpleData name="University_Chapter">University of Mississippi</SimpleData>
+		<SimpleData name="City">Oxford</SimpleData>
+		<SimpleData name="State">MS</SimpleData>
+		<SimpleData name="ChapterID">MS0114</SimpleData>
+		<SimpleData name="MEVR_RD">Hunter Pridgen</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-89.5262461949999,34.359836403</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#DU_University_Chapters">
+		<SimpleData name="OBJECTID">41</SimpleData>
+		<SimpleData name="University_Chapter">Mississippi State University</SimpleData>
+		<SimpleData name="City">Starkville</SimpleData>
+		<SimpleData name="State">MS</SimpleData>
+		<SimpleData name="ChapterID">MS0123</SimpleData>
+		<SimpleData name="MEVR_RD">Hunter Pridgen</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-88.81999209,33.462473554</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#DU_University_Chapters">
+		<SimpleData name="OBJECTID">43</SimpleData>
+		<SimpleData name="University_Chapter">Murray State University</SimpleData>
+		<SimpleData name="City">Murray</SimpleData>
+		<SimpleData name="State">KY</SimpleData>
+		<SimpleData name="ChapterID">KY0082</SimpleData>
+		<SimpleData name="MEVR_RD">Bob Bezkor</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-88.31565545,36.6094917300001</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#DU_University_Chapters">
+		<SimpleData name="OBJECTID">44</SimpleData>
+		<SimpleData name="University_Chapter">Montana State University</SimpleData>
+		<SimpleData name="City">Bozeman</SimpleData>
+		<SimpleData name="State">MT</SimpleData>
+		<SimpleData name="ChapterID">MT0071</SimpleData>
+		<SimpleData name="MEVR_RD">Barry Allen</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-111.047273419,45.6778913840001</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#DU_University_Chapters">
+		<SimpleData name="OBJECTID">45</SimpleData>
+		<SimpleData name="University_Chapter">University of Minnesota- Duluth</SimpleData>
+		<SimpleData name="City">Duluth</SimpleData>
+		<SimpleData name="State">MN</SimpleData>
+		<SimpleData name="ChapterID">MN0293</SimpleData>
+		<SimpleData name="MEVR_RD">Rodney Schlafer</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-92.117081936,46.7803725420001</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#DU_University_Chapters">
+		<SimpleData name="OBJECTID">47</SimpleData>
+		<SimpleData name="University_Chapter">North Carolina State University</SimpleData>
+		<SimpleData name="City">Raleigh</SimpleData>
+		<SimpleData name="State">NC</SimpleData>
+		<SimpleData name="ChapterID">NC0162</SimpleData>
+		<SimpleData name="MEVR_RD">Larry Wilkins</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-78.6445921609999,35.8188363850001</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#DU_University_Chapters">
+		<SimpleData name="OBJECTID">48</SimpleData>
+		<SimpleData name="University_Chapter">Missouri State University</SimpleData>
+		<SimpleData name="City">Springfield</SimpleData>
+		<SimpleData name="State">MO</SimpleData>
+		<SimpleData name="ChapterID">MO0171</SimpleData>
+		<SimpleData name="MEVR_RD">Todd Carlton</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-93.286209763,37.195100106</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#DU_University_Chapters">
+		<SimpleData name="OBJECTID">49</SimpleData>
+		<SimpleData name="University_Chapter">University of Minnesota</SimpleData>
+		<SimpleData name="City">Minneapolis</SimpleData>
+		<SimpleData name="State">MN</SimpleData>
+		<SimpleData name="ChapterID">MN0323</SimpleData>
+		<SimpleData name="MEVR_RD">John Marks</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-93.268200333,44.964463718</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#DU_University_Chapters">
+		<SimpleData name="OBJECTID">50</SimpleData>
+		<SimpleData name="University_Chapter">University of North Carolina at Chapel Hill</SimpleData>
+		<SimpleData name="City">Chapel Hill</SimpleData>
+		<SimpleData name="State">NC</SimpleData>
+		<SimpleData name="ChapterID">NC0166</SimpleData>
+		<SimpleData name="MEVR_RD">Larry Wilkins</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-79.0394642809999,35.925918263</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#DU_University_Chapters">
+		<SimpleData name="OBJECTID">51</SimpleData>
+		<SimpleData name="University_Chapter">North Dakota State University</SimpleData>
+		<SimpleData name="City">Fargo</SimpleData>
+		<SimpleData name="State">ND</SimpleData>
+		<SimpleData name="ChapterID">ND0077</SimpleData>
+		<SimpleData name="MEVR_RD">Terry Lassiter</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-96.80865492,46.8714175060001</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#DU_University_Chapters">
+		<SimpleData name="OBJECTID">52</SimpleData>
+		<SimpleData name="University_Chapter">University of North Carolina at Wilmington </SimpleData>
+		<SimpleData name="City">Wilmington</SimpleData>
+		<SimpleData name="State">NC</SimpleData>
+		<SimpleData name="ChapterID">NC0171</SimpleData>
+		<SimpleData name="MEVR_RD">Dave Neal</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-77.912118956,34.223236619</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#DU_University_Chapters">
+		<SimpleData name="OBJECTID">53</SimpleData>
+		<SimpleData name="University_Chapter">Appalachian State University</SimpleData>
+		<SimpleData name="City">Boone</SimpleData>
+		<SimpleData name="State">NC</SimpleData>
+		<SimpleData name="ChapterID">NC0125</SimpleData>
+		<SimpleData name="MEVR_RD">Jon Sturgill</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-81.668655401,36.2113640580001</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#DU_University_Chapters">
+		<SimpleData name="OBJECTID">54</SimpleData>
+		<SimpleData name="University_Chapter">University of Missouri</SimpleData>
+		<SimpleData name="City">Columbia </SimpleData>
+		<SimpleData name="State">MO</SimpleData>
+		<SimpleData name="ChapterID">MO0160</SimpleData>
+		<SimpleData name="MEVR_RD">Trevor Hickman</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-92.333781727,38.9483550100001</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#DU_University_Chapters">
+		<SimpleData name="OBJECTID">55</SimpleData>
+		<SimpleData name="University_Chapter">University of Nevada- Reno</SimpleData>
+		<SimpleData name="City">Reno</SimpleData>
+		<SimpleData name="State">NV</SimpleData>
+		<SimpleData name="ChapterID">NV0046</SimpleData>
+		<SimpleData name="MEVR_RD">Billie Ray Fann</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-119.821808635,39.527109286</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#DU_University_Chapters">
+		<SimpleData name="OBJECTID">58</SimpleData>
+		<SimpleData name="University_Chapter">State University of New York College of Environmental Science and Forestry</SimpleData>
+		<SimpleData name="City">Syracuse </SimpleData>
+		<SimpleData name="State">NY</SimpleData>
+		<SimpleData name="ChapterID">NY0225</SimpleData>
+		<SimpleData name="MEVR_RD">Trevor Bentley</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-76.144427084,43.0469004990001</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#DU_University_Chapters">
+		<SimpleData name="OBJECTID">59</SimpleData>
+		<SimpleData name="University_Chapter">University of Southern Mississippi</SimpleData>
+		<SimpleData name="City">Hattiesburg</SimpleData>
+		<SimpleData name="State">MS</SimpleData>
+		<SimpleData name="ChapterID">MS0131</SimpleData>
+		<SimpleData name="MEVR_RD">Tommy Ware</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-89.308654705,31.3159726660001</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#DU_University_Chapters">
+		<SimpleData name="OBJECTID">60</SimpleData>
+		<SimpleData name="University_Chapter">Oklahoma State University</SimpleData>
+		<SimpleData name="City">Stillwater</SimpleData>
+		<SimpleData name="State">OK</SimpleData>
+		<SimpleData name="ChapterID">OK0119</SimpleData>
+		<SimpleData name="MEVR_RD">Nathan Johnson</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-97.068537337,36.1215367250001</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#DU_University_Chapters">
+		<SimpleData name="OBJECTID">61</SimpleData>
+		<SimpleData name="University_Chapter">Lake Superior State University</SimpleData>
+		<SimpleData name="City">Sault Ste. Marie </SimpleData>
+		<SimpleData name="State">MI</SimpleData>
+		<SimpleData name="ChapterID">MI0229</SimpleData>
+		<SimpleData name="MEVR_RD">Kevin Stoltz</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-84.3642383279999,46.4933494690001</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#DU_University_Chapters">
+		<SimpleData name="OBJECTID">63</SimpleData>
+		<SimpleData name="University_Chapter">Citadel College</SimpleData>
+		<SimpleData name="City">Charleston</SimpleData>
+		<SimpleData name="State">SC</SimpleData>
+		<SimpleData name="ChapterID">SC0085</SimpleData>
+		<SimpleData name="MEVR_RD">James Meadows</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-79.9616644497508,32.7962903361946</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#DU_University_Chapters">
+		<SimpleData name="OBJECTID">65</SimpleData>
+		<SimpleData name="University_Chapter">Anderson University</SimpleData>
+		<SimpleData name="City">Anderson </SimpleData>
+		<SimpleData name="State">SC</SimpleData>
+		<SimpleData name="ChapterID">SC0101</SimpleData>
+		<SimpleData name="MEVR_RD">Tanner Quattlebaum</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-82.648946259,34.514509031</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#DU_University_Chapters">
+		<SimpleData name="OBJECTID">66</SimpleData>
+		<SimpleData name="University_Chapter">East Carolina University</SimpleData>
+		<SimpleData name="City">Greenville</SimpleData>
+		<SimpleData name="State">NC</SimpleData>
+		<SimpleData name="ChapterID">NC0168</SimpleData>
+		<SimpleData name="MEVR_RD">Dave Neal</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-77.3723646289999,35.6016095950001</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#DU_University_Chapters">
+		<SimpleData name="OBJECTID">67</SimpleData>
+		<SimpleData name="University_Chapter">Clemson University</SimpleData>
+		<SimpleData name="City">Clemson</SimpleData>
+		<SimpleData name="State">SC</SimpleData>
+		<SimpleData name="ChapterID">SC0082</SimpleData>
+		<SimpleData name="MEVR_RD">Tanner Quattlebaum</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-82.814773352,34.684927723</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#DU_University_Chapters">
+		<SimpleData name="OBJECTID">70</SimpleData>
+		<SimpleData name="University_Chapter">University of Tennessee-Knoxville</SimpleData>
+		<SimpleData name="City">Knoxville</SimpleData>
+		<SimpleData name="State">TN</SimpleData>
+		<SimpleData name="ChapterID">TN0087</SimpleData>
+		<SimpleData name="MEVR_RD">Charlie Lowery</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-83.942164491,35.972881859</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#DU_University_Chapters">
+		<SimpleData name="OBJECTID">73</SimpleData>
+		<SimpleData name="University_Chapter">University of South Carolina</SimpleData>
+		<SimpleData name="City">Columbia </SimpleData>
+		<SimpleData name="State">SC</SimpleData>
+		<SimpleData name="ChapterID">SC0079</SimpleData>
+		<SimpleData name="MEVR_RD">James Meadows</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-81.010755333,34.0171092460001</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#DU_University_Chapters">
+		<SimpleData name="OBJECTID">76</SimpleData>
+		<SimpleData name="University_Chapter">Texas A&amp;M University</SimpleData>
+		<SimpleData name="City">College Station</SimpleData>
+		<SimpleData name="State">TX</SimpleData>
+		<SimpleData name="ChapterID">TX0217</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-96.346168147556,30.6057956700526</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#DU_University_Chapters">
+		<SimpleData name="OBJECTID">78</SimpleData>
+		<SimpleData name="University_Chapter">University of Tennessee at Martin</SimpleData>
+		<SimpleData name="City">Martin</SimpleData>
+		<SimpleData name="State">TN</SimpleData>
+		<SimpleData name="ChapterID">TN0117</SimpleData>
+		<SimpleData name="MEVR_RD">Jimbo Robinson</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-88.8656152565499,36.3409679399144</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#DU_University_Chapters">
+		<SimpleData name="OBJECTID">79</SimpleData>
+		<SimpleData name="University_Chapter">University of Nebraska- Lincoln</SimpleData>
+		<SimpleData name="City">Lincoln</SimpleData>
+		<SimpleData name="State">NE</SimpleData>
+		<SimpleData name="ChapterID">NE0101</SimpleData>
+		<SimpleData name="MEVR_RD">Steve Wilson</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-96.7106235519374,40.8171518171359</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#DU_University_Chapters">
+		<SimpleData name="OBJECTID">80</SimpleData>
+		<SimpleData name="University_Chapter">Texas Tech University</SimpleData>
+		<SimpleData name="City">Lubbock</SimpleData>
+		<SimpleData name="State">TX</SimpleData>
+		<SimpleData name="ChapterID">TX0164</SimpleData>
+		<SimpleData name="MEVR_RD">Randall Foster</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-101.87288813892,33.5910604616136</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#DU_University_Chapters">
+		<SimpleData name="OBJECTID">81</SimpleData>
+		<SimpleData name="University_Chapter">James Madison University</SimpleData>
+		<SimpleData name="City">Harrisonburg</SimpleData>
+		<SimpleData name="State">VA</SimpleData>
+		<SimpleData name="ChapterID">VA0100</SimpleData>
+		<SimpleData name="MEVR_RD">Shawn Kooyman</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-78.872755545,38.443282004</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#DU_University_Chapters">
+		<SimpleData name="OBJECTID">82</SimpleData>
+		<SimpleData name="University_Chapter">University of Wisconsin-Madison</SimpleData>
+		<SimpleData name="City">Madison</SimpleData>
+		<SimpleData name="State">WI</SimpleData>
+		<SimpleData name="ChapterID">WI0303</SimpleData>
+		<SimpleData name="MEVR_RD">William Gross</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-89.394755129,43.074609771</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#DU_University_Chapters">
+		<SimpleData name="OBJECTID">83</SimpleData>
+		<SimpleData name="University_Chapter">Milwaukee School of Engineering </SimpleData>
+		<SimpleData name="City">Milwaukee</SimpleData>
+		<SimpleData name="State">WI</SimpleData>
+		<SimpleData name="ChapterID">WI0328</SimpleData>
+		<SimpleData name="MEVR_RD">Tom Munich</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-87.955909371,43.0521641010001</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#DU_University_Chapters">
+		<SimpleData name="OBJECTID">85</SimpleData>
+		<SimpleData name="University_Chapter">Tennessee Tech University</SimpleData>
+		<SimpleData name="City">Cookeville</SimpleData>
+		<SimpleData name="State">TN</SimpleData>
+		<SimpleData name="ChapterID">TN0111</SimpleData>
+		<SimpleData name="MEVR_RD">Charlie Lowery</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.5061504148473,36.1781188837746</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#DU_University_Chapters">
+		<SimpleData name="OBJECTID">87</SimpleData>
+		<SimpleData name="University_Chapter">Stephen F. Austin State University</SimpleData>
+		<SimpleData name="City">Nacogdoches</SimpleData>
+		<SimpleData name="State">TX</SimpleData>
+		<SimpleData name="ChapterID">TX0255</SimpleData>
+		<SimpleData name="MEVR_RD">Jason McKey</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-94.64438432302,31.6257210301182</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#DU_University_Chapters">
+		<SimpleData name="OBJECTID">88</SimpleData>
+		<SimpleData name="University_Chapter">Virginia Tech University</SimpleData>
+		<SimpleData name="City">Blacksburg</SimpleData>
+		<SimpleData name="State">VA</SimpleData>
+		<SimpleData name="ChapterID">VA0089</SimpleData>
+		<SimpleData name="MEVR_RD">Shawn Kooyman</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-80.4176912189999,37.229873329</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#DU_University_Chapters">
+		<SimpleData name="OBJECTID">89</SimpleData>
+		<SimpleData name="University_Chapter">South Dakota State University </SimpleData>
+		<SimpleData name="City">Brookings </SimpleData>
+		<SimpleData name="State">SD</SimpleData>
+		<SimpleData name="ChapterID">SD0118</SimpleData>
+		<SimpleData name="MEVR_RD">Don Thorpe</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-96.7801304981806,44.3209889474038</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#DU_University_Chapters">
+		<SimpleData name="OBJECTID">91</SimpleData>
+		<SimpleData name="University_Chapter">University of Wisconsin-Stevens Point</SimpleData>
+		<SimpleData name="City">Stevens Point</SimpleData>
+		<SimpleData name="State">WI</SimpleData>
+		<SimpleData name="ChapterID">WI0340</SimpleData>
+		<SimpleData name="MEVR_RD">Michael Brumley</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-89.560318511,44.523036516</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#DU_University_Chapters">
+		<SimpleData name="OBJECTID">494</SimpleData>
+		<SimpleData name="University_Chapter">University of North Georgia</SimpleData>
+		<SimpleData name="City">Dahlonega</SimpleData>
+		<SimpleData name="State">GA</SimpleData>
+		<SimpleData name="ChapterID">GA0173</SimpleData>
+		<SimpleData name="MEVR_RD">Scott James</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-83.9840708249999,34.527711047</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#DU_University_Chapters">
+		<SimpleData name="OBJECTID">895</SimpleData>
+		<SimpleData name="University_Chapter">College of Saint Benedict &amp; Saint John's University</SimpleData>
+		<SimpleData name="City">St. Joseph</SimpleData>
+		<SimpleData name="State">MN</SimpleData>
+		<SimpleData name="ChapterID">MN0295</SimpleData>
+		<SimpleData name="MEVR_RD">Kyle Momsen</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-94.320215526,45.5588056610001</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#DU_University_Chapters">
+		<SimpleData name="OBJECTID">897</SimpleData>
+		<SimpleData name="University_Chapter">Sewnee: The University of the South</SimpleData>
+		<SimpleData name="City">Sewanee</SimpleData>
+		<SimpleData name="State">TN</SimpleData>
+		<SimpleData name="ChapterID">TN0096</SimpleData>
+		<SimpleData name="MEVR_RD">Charlie Lowery</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.918931436,35.204197456</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#DU_University_Chapters">
+		<SimpleData name="OBJECTID">1295</SimpleData>
+		<SimpleData name="University_Chapter">Gustavus Adolphus College</SimpleData>
+		<SimpleData name="City">St. Peter</SimpleData>
+		<SimpleData name="State">MN</SimpleData>
+		<SimpleData name="ChapterID">MN0335</SimpleData>
+		<SimpleData name="MEVR_RD">Ben Vaughn</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-93.971489955,44.3232827300001</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#DU_University_Chapters">
+		<SimpleData name="OBJECTID">1297</SimpleData>
+		<SimpleData name="University_Chapter">Michigan Tech University</SimpleData>
+		<SimpleData name="City">Houghton</SimpleData>
+		<SimpleData name="State">MI</SimpleData>
+		<SimpleData name="ChapterID">MI0248</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-88.549947878,47.1102235280001</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#DU_University_Chapters">
+		<SimpleData name="OBJECTID">1696</SimpleData>
+		<SimpleData name="University_Chapter">State University of New York at Cobleskill</SimpleData>
+		<SimpleData name="City">Cobleskill</SimpleData>
+		<SimpleData name="State">NY</SimpleData>
+		<SimpleData name="ChapterID">NY0222</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-74.504260648,42.6718201580001</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#DU_University_Chapters">
+		<SimpleData name="OBJECTID">1698</SimpleData>
+		<SimpleData name="University_Chapter">Texas State University</SimpleData>
+		<SimpleData name="City">Marcos</SimpleData>
+		<SimpleData name="State">TX</SimpleData>
+		<SimpleData name="ChapterID">TX0246</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-97.939955003,29.8890250910001</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#DU_University_Chapters">
+		<SimpleData name="OBJECTID">1699</SimpleData>
+		<SimpleData name="University_Chapter">Hampden-Sydney College</SimpleData>
+		<SimpleData name="City">Farmville</SimpleData>
+		<SimpleData name="State">VA</SimpleData>
+		<SimpleData name="ChapterID">VA0090</SimpleData>
+		<SimpleData name="MEVR_RD">Shawn Kooyman</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-78.459182203,37.2435208540001</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#DU_University_Chapters">
+		<SimpleData name="OBJECTID">1700</SimpleData>
+		<SimpleData name="University_Chapter">University of Wisconsin-Stout</SimpleData>
+		<SimpleData name="City">Stout</SimpleData>
+		<SimpleData name="State">WI</SimpleData>
+		<SimpleData name="ChapterID">WI0342</SimpleData>
+		<SimpleData name="MEVR_RD">Rodney Schlafer</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-91.9278007249999,44.8736824480001</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#DU_University_Chapters">
+		<SimpleData name="OBJECTID">1708</SimpleData>
+		<SimpleData name="University_Chapter">University of Tennessee-Chattanooga</SimpleData>
+		<SimpleData name="City">Chattanooga</SimpleData>
+		<SimpleData name="State">TN</SimpleData>
+		<SimpleData name="ChapterID">TN132</SimpleData>
+		<SimpleData name="MEVR_RD">Charlie Lowery</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.2974609417724,35.0452641311271</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#DU_University_Chapters">
+		<SimpleData name="OBJECTID">1711</SimpleData>
+		<SimpleData name="University_Chapter">University of Wisconsin-Whitewater</SimpleData>
+		<SimpleData name="City">Whitewater</SimpleData>
+		<SimpleData name="State">WI</SimpleData>
+		<SimpleData name="ChapterID">WI0331</SimpleData>
+		<SimpleData name="MEVR_RD">Tom Munich</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-88.7435781349181,42.8371957801052</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#DU_University_Chapters">
+		<SimpleData name="OBJECTID">1712</SimpleData>
+		<SimpleData name="University_Chapter">Georgia College &amp; State University</SimpleData>
+		<SimpleData name="City">Milledgeville</SimpleData>
+		<SimpleData name="State">GA</SimpleData>
+		<SimpleData name="ChapterID">GA0151</SimpleData>
+		<SimpleData name="MEVR_RD">Brice Crawford</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-83.2285058624267,33.0809979780375</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#DU_University_Chapters">
+		<SimpleData name="OBJECTID">1714</SimpleData>
+		<SimpleData name="University_Chapter">Texas A&amp;M Commerce</SimpleData>
+		<SimpleData name="City">Commerce</SimpleData>
+		<SimpleData name="State">TX</SimpleData>
+		<SimpleData name="ChapterID">TX0091</SimpleData>
+		<SimpleData name="MEVR_RD">Russ Hawley</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-95.9083869986723,33.244280478526</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#DU_University_Chapters">
+		<SimpleData name="OBJECTID">1715</SimpleData>
+		<SimpleData name="University_Chapter">University of Virginia</SimpleData>
+		<SimpleData name="City">Charlottesville</SimpleData>
+		<SimpleData name="State">VA</SimpleData>
+		<SimpleData name="ChapterID">VA0088</SimpleData>
+		<SimpleData name="MEVR_RD">Shawn Kooyman</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-78.5157391482547,38.0338861068355</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#DU_University_Chapters">
+		<SimpleData name="OBJECTID">1716</SimpleData>
+		<SimpleData name="University_Chapter">Campbell University</SimpleData>
+		<SimpleData name="City">Buies Creek</SimpleData>
+		<SimpleData name="State">NC</SimpleData>
+		<SimpleData name="ChapterID">NC0144</SimpleData>
+		<SimpleData name="MEVR_RD">Dave Neal</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-78.7394536441807,35.4083585778354</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#DU_University_Chapters">
+		<SimpleData name="OBJECTID">1717</SimpleData>
+		<SimpleData name="University_Chapter">University of Arizona</SimpleData>
+		<SimpleData name="City">Tuscon</SimpleData>
+		<SimpleData name="State">AZ</SimpleData>
+		<SimpleData name="ChapterID">AZ0070</SimpleData>
+		<SimpleData name="MEVR_RD">Andrew Limmer</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-110.953881322632,32.2318967534171</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#DU_University_Chapters">
+		<SimpleData name="OBJECTID">1722</SimpleData>
+		<SimpleData name="University_Chapter">University of Nebraska- Kearney</SimpleData>
+		<SimpleData name="City">Kearney</SimpleData>
+		<SimpleData name="State">NE</SimpleData>
+		<SimpleData name="ChapterID">NE0116</SimpleData>
+		<SimpleData name="MEVR_RD">Pat Baughman</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-99.0963499676893,40.7017032922548</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#DU_University_Chapters">
+		<SimpleData name="OBJECTID">1723</SimpleData>
+		<SimpleData name="University_Chapter">Ohio State University</SimpleData>
+		<SimpleData name="City">Columbus</SimpleData>
+		<SimpleData name="State">OH</SimpleData>
+		<SimpleData name="ChapterID">OH0131</SimpleData>
+		<SimpleData name="MEVR_RD">Aaron Dynes</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-83.0110755767817,39.9996467204618</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#DU_University_Chapters">
+		<SimpleData name="OBJECTID">1727</SimpleData>
+		<SimpleData name="University_Chapter">University of Florida/Gainesville</SimpleData>
+		<SimpleData name="City">Gainesville</SimpleData>
+		<SimpleData name="State">FL</SimpleData>
+		<SimpleData name="ChapterID">FL-0126</SimpleData>
+		<SimpleData name="MEVR_RD">Jarrett Lafferty</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-82.3552443873829,29.642362842802</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#DU_University_Chapters">
+		<SimpleData name="OBJECTID">1729</SimpleData>
+		<SimpleData name="University_Chapter">Arkansas State University</SimpleData>
+		<SimpleData name="City">Jonesboro</SimpleData>
+		<SimpleData name="State">AR</SimpleData>
+		<SimpleData name="ChapterID">AR-0113</SimpleData>
+		<SimpleData name="MEVR_RD">Tye Anderson</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-90.6757361653537,35.8416758450826</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#DU_University_Chapters">
+		<SimpleData name="OBJECTID">1730</SimpleData>
+		<SimpleData name="University_Chapter">Vandal Chapter</SimpleData>
+		<SimpleData name="City">Moscow</SimpleData>
+		<SimpleData name="State">ID</SimpleData>
+		<SimpleData name="ChapterID">ID-0089</SimpleData>
+		<SimpleData name="MEVR_RD">Mond Warren</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-117.014284571533,46.7281818905423</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#DU_University_Chapters">
+		<SimpleData name="OBJECTID">1731</SimpleData>
+		<SimpleData name="University_Chapter">LSU Eunice</SimpleData>
+		<SimpleData name="City">Eunice</SimpleData>
+		<SimpleData name="State">LA</SimpleData>
+		<SimpleData name="ChapterID">LA-0161</SimpleData>
+		<SimpleData name="MEVR_RD">Derrick Davis</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-92.435144897469,30.4746651855709</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#DU_University_Chapters">
+		<SimpleData name="OBJECTID">1732</SimpleData>
+		<SimpleData name="University_Chapter">Michigan Tech University</SimpleData>
+		<SimpleData name="City">Houghton</SimpleData>
+		<SimpleData name="State">MI</SimpleData>
+		<SimpleData name="ChapterID">MI-0248</SimpleData>
+		<SimpleData name="MEVR_RD">Chris Anderson</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-88.5505984242892,47.1191833164408</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#DU_University_Chapters">
+		<SimpleData name="OBJECTID">1733</SimpleData>
+		<SimpleData name="University_Chapter">Ferris State University</SimpleData>
+		<SimpleData name="City">Big Rapids</SimpleData>
+		<SimpleData name="State">MI</SimpleData>
+		<SimpleData name="ChapterID">MI-0260</SimpleData>
+		<SimpleData name="MEVR_RD">Craig Curtis</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.4824800317382,43.6865499351726</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#DU_University_Chapters">
+		<SimpleData name="OBJECTID">1734</SimpleData>
+		<SimpleData name="University_Chapter">Davidson College</SimpleData>
+		<SimpleData name="City">Davidson</SimpleData>
+		<SimpleData name="State">NC</SimpleData>
+		<SimpleData name="ChapterID">NC-0231</SimpleData>
+		<SimpleData name="MEVR_RD">Jon Sturgill</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-80.8470467089843,35.499342805885</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#DU_University_Chapters">
+		<SimpleData name="OBJECTID">1735</SimpleData>
+		<SimpleData name="University_Chapter">St. Lawrence University</SimpleData>
+		<SimpleData name="City">Canton</SimpleData>
+		<SimpleData name="State">NY</SimpleData>
+		<SimpleData name="ChapterID">NY-0217</SimpleData>
+		<SimpleData name="MEVR_RD">UNKNOWN</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-75.1595666772461,44.5935451609797</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#DU_University_Chapters">
+		<SimpleData name="OBJECTID">1736</SimpleData>
+		<SimpleData name="University_Chapter">College of Charleston</SimpleData>
+		<SimpleData name="City">Charleston</SimpleData>
+		<SimpleData name="State">SC</SimpleData>
+		<SimpleData name="ChapterID">SC-0007</SimpleData>
+		<SimpleData name="MEVR_RD">James Meadows</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-79.9376474314941,32.7848345263862</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#DU_University_Chapters">
+		<SimpleData name="OBJECTID">1737</SimpleData>
+		<SimpleData name="University_Chapter">VMI</SimpleData>
+		<SimpleData name="City">Lexington</SimpleData>
+		<SimpleData name="State">VA</SimpleData>
+		<SimpleData name="ChapterID">VA-0102</SimpleData>
+		<SimpleData name="MEVR_RD">Shawn Kooyman</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-79.4393553219728,37.7900810211503</coordinates></Point>
+  </Placemark>
+</Folder>
+</Document></kml>
